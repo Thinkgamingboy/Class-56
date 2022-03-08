@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: darkred;
+}
+body{
+    text-align: center;
+}
+img{
+    width: 30%;
+    float: right;
+}
+h2{
+    display: inline;
+}
+button{
+    text-align: center;
+    background-color: aqua;
+    color: blueviolet;
+    width:10% ;
+    padding: 10px;
+} 
